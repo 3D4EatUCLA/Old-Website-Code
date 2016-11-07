@@ -1,6 +1,6 @@
 This website is made using templates provided by Start Bootstrap. Refer to the sections below for more information.
 
-*The following is from the Original Start Bootstrap ReadMe
+*The following is from the original Start Bootstrap ReadMe
 
 ## Start Bootstrap
 
