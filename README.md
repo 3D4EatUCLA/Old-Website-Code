@@ -2,6 +2,8 @@ This website is made using templates provided by Start Bootstrap. Refer to the s
 
 *The following is from the Original Start Bootstrap ReadMe
 
+## Start Bootstrap
+
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
 ## Bugs and Issues
